@@ -1,0 +1,44 @@
+[
+  {
+    "ticket_id": "SL-001",
+    "query": "Lenovo IdeaPad Slim 3 price",
+    "agent_response": "Lenovo IdeaPad Slim 3 is Rs. 35990. Intel i3, 8GB RAM, 512GB SSD. Warranty 2 years. Battery 8 hours.",
+    "verified": true
+  },
+  {
+    "ticket_id": "SL-002",
+    "query": "Dell Inspiron 15 price and specs",
+    "agent_response": "Dell Inspiron 15 costs Rs. 58990. i5, 16GB RAM, 512GB SSD. Warranty 3 years. Battery 10 hours.",
+    "verified": true
+  },
+  {
+    "ticket_id": "SL-003",
+    "query": "MacBook Air M2 price",
+    "agent_response": "Apple MacBook Air M2 is Rs. 114990. M2 chip, 8GB RAM, 256GB SSD. Battery 18 hours. Warranty 1 year.",
+    "verified": true
+  },
+  {
+    "ticket_id": "SL-004",
+    "query": "ASUS ROG Strix G15 specs",
+    "agent_response": "ASUS ROG Strix G15 at Rs. 124990. Ryzen 9, RTX 3070, 16GB RAM, 1TB SSD. Warranty 2 years. Battery 5 hours.",
+    "verified": true
+  },
+  {
+    "ticket_id": "SL-005",
+    "query": "MSI Katana GF66 price",
+    "agent_response": "MSI Katana GF66 at Rs. 89990. RTX 3060, i7, 16GB RAM, 512GB SSD. Warranty 2 years.",
+    "verified": true
+  },
+  {
+    "ticket_id": "SL-006",
+    "query": "HP Spectre x360 battery",
+    "agent_response": "HP Spectre x360 has 17 hour battery. Price Rs. 164990. i7, 16GB RAM, 1TB SSD. Warranty 3 years.",
+    "verified": true
+  },
+  {
+    "ticket_id": "SL-007",
+    "query": "Lenovo Legion 5 Pro price",
+    "agent_response": "Lenovo Legion 5 Pro Rs. 109990. Ryzen 7, RTX 3060, 16GB RAM. Warranty 2 years. Battery 4 hours.",
+    "verified": true
+  }
+]

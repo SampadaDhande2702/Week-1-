@@ -1,0 +1,44 @@
+[
+  {
+    "ticket_id": "TK-001",
+    "issue": "Device reset not working",
+    "resolution": "Confirmed: Hold reset button for 10 seconds. Reboot takes 10 minutes. Matches manual v3.0.",
+    "status": "resolved"
+  },
+  {
+    "ticket_id": "TK-002",
+    "issue": "Firmware update stuck at 50 percent",
+    "resolution": "Firmware update takes 15 minutes. Do not power off. Use version 4.3 only from support.networkpro.com.",
+    "status": "resolved"
+  },
+  {
+    "ticket_id": "TK-003",
+    "issue": "Cannot connect more than 50 devices",
+    "resolution": "Maximum supported devices is 50. Hardware limitation confirmed by engineering team.",
+    "status": "resolved"
+  },
+  {
+    "ticket_id": "TK-004",
+    "issue": "RED LED blinking 3 times repeatedly",
+    "resolution": "3 red blinks means hard reset required. Follow Section 1 of manual v3.0.",
+    "status": "resolved"
+  },
+  {
+    "ticket_id": "TK-005",
+    "issue": "Customer asked about warranty claim after 2 years",
+    "resolution": "Warranty is 3 years as per manual v3.0. Customer is still within warranty period.",
+    "status": "resolved"
+  },
+  {
+    "ticket_id": "TK-006",
+    "issue": "Login blocked after failed attempts",
+    "resolution": "System locks after 5 failed login attempts. Admin password default is Admin@2024.",
+    "status": "resolved"
+  },
+  {
+    "ticket_id": "TK-007",
+    "issue": "Speed on 5GHz lower than expected",
+    "resolution": "Maximum throughput is 1200 Mbps on 5GHz. Check interference and distance from router.",
+    "status": "resolved"
+  }
+]
