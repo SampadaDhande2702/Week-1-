@@ -1,0 +1,24 @@
+app:
+  debug: false
+  max_iterations: 10
+  name: TechCorp Support Intelligence System
+  version: 1.0.0
+database:
+  base_path: database/
+langfuse:
+  host: https://cloud.langfuse.com
+llm:
+  gemini:
+    max_tokens: 2048
+    model: gemini-2.0-flash
+    temperature: 0.2
+  groq:
+    max_tokens: 2048
+    model: llama-3.3-70b-versatile
+    temperature: 0.2
+  ollama:
+    base_url: http://localhost:11434
+    max_tokens: 2048
+    model: llama3.2
+    temperature: 0.2
+  provider: groq

@@ -1,0 +1,23 @@
+# ─── Core Agent Framework ───────────────────────────────────
+crewai
+crewai-tools
+
+# ─── LLM Providers ──────────────────────────────────────────
+google-generativeai
+groq
+ollama
+langchain-google-genai
+langchain-groq
+langchain-community
+langchain-core
+
+# ─── Monitoring ─────────────────────────────────────────────
+langfuse
+
+# ─── UI ─────────────────────────────────────────────────────
+streamlit
+
+# ─── Utilities ──────────────────────────────────────────────
+python-dotenv
+pyyaml
+rich
